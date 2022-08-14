@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "281478719554",
+    "project_id": "smart-lady",
+    "storage_bucket": "smart-lady.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:281478719554:android:13aef7e28b1d8d443965db",
+        "android_client_info": {
+          "package_name": "com.example.lesson1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "281478719554-pgn8ivc9jdp50tbq3d2dlaehm3qgf5p0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDUn9wVv9XCAAU9SGK2yAP4lmmxoscwNVw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "281478719554-pgn8ivc9jdp50tbq3d2dlaehm3qgf5p0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
